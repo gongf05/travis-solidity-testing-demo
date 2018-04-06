@@ -41,3 +41,14 @@ Remember, change the network settings in `truffle.js` to use testRPC network:
 
 Now it is ready to build the project and run the test. Try to push a commit to the repository, it will automatically compile and test the smart contract.
 
+In the dashboard of Travis-CI, the status and process information can be accessed for this project:
+
+[https://travis-ci.org/gongf05/travis-solidity-testing-demo](https://travis-ci.org/gongf05/travis-solidity-testing-demo)
+
+<img src="img/install-travis.png" width="1000" />
+
+<img src="img/res.png" width="1000" />
+
+It show the Solidity project is tested and all are passing. The dashboard status information is green which means the build and test are good!
+
+<img src="img/dash.png" width="1000" />
